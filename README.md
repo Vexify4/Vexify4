@@ -1,4 +1,3 @@
-<center>
 ### Hi there 👋
 🔭 I’m currently working on 3kh0 Unblocked Games Website https://3kh0.github.io/games
 <br>
