@@ -14,3 +14,4 @@
 😄 Pronouns: Who needs Pronouns
 <br>
 ⚡ Fun fact: Im Epic
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexify4)](https://github.com/anuraghazra/github-readme-stats
