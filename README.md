@@ -3,9 +3,9 @@
 <br>
 🌱 I’m currently learning CSS
 <br>
-👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on web design
 <br>
-🤔 I’m looking for help with Anyone Who Needs It :)
+🤔 I’m looking for help with JS
 <br>
 💬 Ask me about Anything
 <br>
