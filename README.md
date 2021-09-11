@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋
 🔭 I’m currently working on 3kh0 Unblocked Games Website https://3kh0.github.io/games
 <br>
@@ -16,5 +17,6 @@
 ⚡ Fun fact: Im Epic
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexify4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </center>
 
 
