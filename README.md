@@ -16,6 +16,7 @@
 ⚡ Fun fact: I have a website that does not work https://vexify4.github.io
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexify4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
  
 
 
