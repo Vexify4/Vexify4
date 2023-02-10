@@ -1,9 +1,10 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexify4&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexify4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-🔭 I’m currently working on 3kh0 Unblocked Games Website https://3kh0.github.io/games
+🔭 I’m currently working on Nothng, hit me up if you wanna do somethng
 <br>
-🌱 I’m currently learning CSS
+🌱 I’m currently learning JS
 <br>
 👯 I’m looking to collaborate on web design
 <br>
@@ -17,7 +18,7 @@
 <br>
 ⚡ Fun fact: I have a website that does not work https://vexify4.github.io
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexify4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
